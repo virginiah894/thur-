@@ -1,14 +1,11 @@
-*{
-  background-color: blue; 
-}
+
 h1 {
-  color: blue;
+  color: darkred;
   text-align: center;
 }
 
 p {
-  color: gray;
+  color: crimson;
 }
 body {
-  background-color: skyblue;
-}
+  background-color: salmon;
